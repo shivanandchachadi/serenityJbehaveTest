@@ -28,7 +28,7 @@ public class Stepdefclass {
 	public void whenTheUserEntersUsernameAndPassword() {
 	  // PENDING
 		//Thread.sleep(2000);
-		driver.findElement(By.xpath("//input[@id='username']")).sendKeys("shivanand.chachadi@softvision.com");
+		driver.findElement(By.xpath("//input[@id='username']")).sendKeys("xxxxxx.xxxxxx@xxxxxxx.com");
 		driver.findElement(By.xpath("//input[@id='password']")).sendKeys("xxxxxxxxxxxx");
 	}
 
